@@ -8,15 +8,11 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 [![Linkedin Badge](https://img.shields.io/badge/-begzod_nasimov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/begzod-nasimov-849019261/)](https://www.linkedin.com/in/begzod-nasimov-849019261/) 
 [![Telegram Badge](https://img.shields.io/badge/@begzodnasimov-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/begjon202) 
-[![Gmail Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
-
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Laravel & Vue
+- :computer: I'm currently working on Nest & React
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
-- :triangular_flag_on_post: I teach code on YouTube
-- :muscle: Do Bodybuilding & Calisthenics
 - :rocket: Always ready to collaborate for Dev Experiments
 
 ## ⚡ Technologies
