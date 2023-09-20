@@ -8,7 +8,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 [![Linkedin Badge](https://img.shields.io/badge/-begzod_nasimov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/begzod-nasimov-849019261/)](https://www.linkedin.com/in/begzod-nasimov-849019261/) 
 [![Telegram Badge](https://img.shields.io/badge/@begzodnasimov-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/begjon202) 
-[![Youtube Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
+[![Gmail Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
