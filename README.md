@@ -18,7 +18,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ## ⚡ Technologies
 
 
-
+![Image](https://img.shields.io/badge/React-005C84?style=for-the-badge&logo=react&logoColor=white)
 ![Image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Image](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
