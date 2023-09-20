@@ -16,7 +16,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 - :rocket: Always ready to collaborate for Dev Experiments
 
 ## ⚡ Technologies
-
+![Image](https://img.shields.io/badge/-NodeJS-E10098?style=for-the-badge&logo=nodejs)
 ![Image](https://img.shields.io/badge/Nest-F05032?style=for-the-badge&logo=nest&logoColor=white)
 ![Image](https://img.shields.io/badge/React-005C84?style=for-the-badge&logo=react&logoColor=css3)
 ![Image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
